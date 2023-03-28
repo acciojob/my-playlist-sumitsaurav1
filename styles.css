@@ -6,6 +6,7 @@ h1{
 .player_one{
 	background-color:white;
 	border-radius:5px;
+	padding:10px
 }
 a{
 	color:black;
