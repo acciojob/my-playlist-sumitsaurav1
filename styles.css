@@ -1,9 +1,14 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px:
+	padding:0px;
+}
+h1{
+	text-align:center;
+}
 .player_one{
 	background-color:white;
-	display:flex;
-	flex-direction:column;
-	
+	border-radius:5px;
 }
 a{
 	color:black;
@@ -11,11 +16,8 @@ a{
 }
 .player_two{
 	background-color:white;
-	margin:20px;
 	display:flex;
 	flex-direction:column;
-/* 	justify-content:center; */
 	align-items:center;
-	padding:10px;
-	gap:20px
+	
 }
